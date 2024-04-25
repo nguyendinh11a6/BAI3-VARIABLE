@@ -1,7 +1,7 @@
 <?php
 echo '<h1>';
-$a = 10;
-$b = 8;
+$a = 5;
+$b = 10;
 echo $a;   
 echo '<br>'; 
 echo $b;
@@ -17,13 +17,13 @@ echo $tr;
 
 echo '<br>';
 $firstname ='Nguyen';
-$lastname  ='Van Long';
+$lastname  ='Van Nam';
 $fullname  = $firstname .$lastname;
 echo $fullname;
 
 echo '<br>';
-$a = 7;
-$b = 6;
+$a = 8;
+$b = 9;
 var_dump($a);
 echo '<br>';
 var_dump($b);
